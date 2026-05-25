@@ -1,0 +1,15 @@
+﻿  Kolko i krzyzyk.cpp
+C:\Users\User\source\repos\Kolko i krzyzyk\Kolko i krzyzyk\Kolko i krzyzyk.cpp(88,25): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\User\source\repos\Kolko i krzyzyk\Kolko i krzyzyk\Kolko i krzyzyk.cpp(120,41): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\User\source\repos\Kolko i krzyzyk\Kolko i krzyzyk\Kolko i krzyzyk.cpp(121,21): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\User\source\repos\Kolko i krzyzyk\Kolko i krzyzyk\Kolko i krzyzyk.cpp(126,26): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\User\source\repos\Kolko i krzyzyk\Kolko i krzyzyk\Kolko i krzyzyk.cpp(171,19): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\User\source\repos\Kolko i krzyzyk\Kolko i krzyzyk\Kolko i krzyzyk.cpp(183,23): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\User\source\repos\Kolko i krzyzyk\Kolko i krzyzyk\Kolko i krzyzyk.cpp(196,19): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\User\source\repos\Kolko i krzyzyk\Kolko i krzyzyk\Kolko i krzyzyk.cpp(228,19): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\User\source\repos\Kolko i krzyzyk\Kolko i krzyzyk\Kolko i krzyzyk.cpp(240,19): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\User\source\repos\Kolko i krzyzyk\Kolko i krzyzyk\Kolko i krzyzyk.cpp(252,19): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\User\source\repos\Kolko i krzyzyk\Kolko i krzyzyk\Kolko i krzyzyk.cpp(263,19): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\User\source\repos\Kolko i krzyzyk\Kolko i krzyzyk\Kolko i krzyzyk.cpp(282,19): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\User\source\repos\Kolko i krzyzyk\Kolko i krzyzyk\Kolko i krzyzyk.cpp(22,1): warning C4715: "gameBeggining”: niewszystkie ścieżki kodu zwracają wartość
+  Kolko i krzyzyk.vcxproj -> C:\Users\User\source\repos\Kolko i krzyzyk\x64\Debug\Kolko i krzyzyk.exe
