@@ -1,0 +1,4 @@
+namespace tictactoe
+{
+    void playGame() {}
+}
